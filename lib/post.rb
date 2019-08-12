@@ -5,4 +5,6 @@ def initialize
   @title = title
 end
 
+def author=()
+
 end
