@@ -6,5 +6,6 @@ def initialize
 end
 
 def author=()
+end
 
 end
