@@ -2,7 +2,7 @@ class Post
 attr_accessor :title
 
 def initialize
-  @title = title.artist
+  @title = title.Artist
 end
 
 end
